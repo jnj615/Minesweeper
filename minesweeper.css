@@ -1,0 +1,72 @@
+
+body{
+	color: white;
+	background-color: black;
+	font-family: "Courier New";
+}
+
+p {
+	margin:0;
+	padding:0;
+	line-height: 0px;
+}
+
+button{
+	height: 15px;
+	width: 15px;
+	margin:0;
+	padding:0;
+	background-color:blue;
+	border: solid black 2px;
+	color: white;
+}
+
+button:hover{
+	background-color:darkOrange;
+}
+
+.showing{
+	background-color:dimGray;
+	color: dimGray;
+}
+
+.board{
+	margin: 0;
+	padding: 0;
+}
+
+.row{
+	margin: 0;
+	padding: 0;
+}
+
+h2{
+	font-size: 15px;
+}
+
+.restart{
+	background-color: darkOrange;
+	border: solid black 2px;
+
+}
+
+.highscore {
+	background-color:blue;
+	border: solid black 2px;
+}
+
+.bombCount {
+	background-color: darkOrange;
+	border: solid black 2px;
+
+}
+
+.timer {
+	background-color: blue;
+	border: solid black 2px;
+}
+
+h1{
+	background-color: blue;
+	border: solid black 2px;
+}
